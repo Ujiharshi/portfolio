@@ -1,0 +1,70 @@
+.navbar{
+    background-color:rgb(190, 193, 199) ;
+    padding: 1% 10%;
+}
+.nav-link{
+    font-size: 1.5rem;
+    font-weight: 800;
+    text-decoration: underline;
+}
+.navbar-nav{
+    margin: 0% 30%;
+}
+.navbar-brand{
+    color: orangered!important;
+    font-family:'Roboto', sans-serif;
+    font-weight: 800;
+    font-size: 2.5rem;
+    text-decoration: underline;
+}
+.name{
+    font-family:'Roboto', sans-serif ;
+    font-size: 6rem;
+    color: aqua;
+    text-decoration: underline;
+}
+.slide1para{
+    color: greenyellow;
+    font-size: 2rem;
+}
+.image{
+    width: 22%;
+    border-radius: 5%;
+    border-color: aqua;
+}
+.name:hover{
+    color: chocolate;
+}
+.slide1para:hover{
+    color: chocolate;
+}
+.sh{
+    font-size: 6rem;
+    font-family:'Roboto', sans-serif;
+    color: black;
+    font-weight: 800;
+    
+}
+.slide2para{
+    font-family:'Roboto', sans-serif;
+    color:black;
+    font-weight: 600;
+    font-size: 3rem;
+    
+}
+.contact{
+    font-family:'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 4rem;
+    color: lightcoral;
+    text-decoration: underline;
+}
+.btn-linkedin:link, .btn-linkedin:visited {
+    background-color: black;
+    color: #fff;
+    font-weight: 400;
+}
+.btn-linkedin:active, .btn-linkedin:hover {
+    background: #084461;
+    color: black;
+  }
